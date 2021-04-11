@@ -1,0 +1,27 @@
+{
+  "name": "recipes-for-mariah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node ."
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/glacial-mesa-31223.git"
+  },
+  "keywords": [
+    "recipes"
+  ],
+  "author": "ZacharyEggert",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
